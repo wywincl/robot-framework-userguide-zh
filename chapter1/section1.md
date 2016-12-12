@@ -12,7 +12,7 @@ Robot Framework是一个基于Python的,可扩展的关键字驱动的测试自�
 * 平台和应用无关性;
 * 提供了一个简单的库API：用于创建用户自己的测试库，测试库可以使用原生的Python或者Java实现;
 * 提供了命令行接口以及基于XML的结果输出文件，方便与已存在的构建设施集成\(持续集成系统\);
-* 支持Selenium的Web测试，Java GUI测试，运行过程，Telnet, SSH等等;
+* 支持Selenium的Web测试，Java GUI测试，running processes，Telnet, SSH等等;
 * 支持创建数据驱动的测试用例;
 * 内置变量功能，适用于测试不同的环境;
 * 提供了标签功能，用于分类和选择测试用例执行;
