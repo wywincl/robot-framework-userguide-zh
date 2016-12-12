@@ -1,7 +1,8 @@
 # 1.1 介绍
 
-Robot Framework是一个基于Python的,可扩展的关键字驱动的测试自动化框架。它是为了端到端的验收测试(End-To-End Acceptance Test)以及验收测试驱动开发(Acceptance-Test-Driven Development, ATDD)而设计。
+Robot Framework是一个基于Python的,可扩展的关键字驱动的测试自动化框架。它是为了端到端的验收测试\(End-To-End Acceptance Test\)以及验收测试驱动开发\(Acceptance-Test-Driven Development, ATDD\)而设计。
 因此它可以应用于测试，当验证需要涉及多个不同技术和接口的分布式、异构的应用程序。
+
 
 ## 1.1.1 为什么选择Robot Framework?
 
@@ -10,7 +11,7 @@ Robot Framework是一个基于Python的,可扩展的关键字驱动的测试自�
 * 提供了HTML格式可读性强的测试报告和日志;
 * 平台和应用无关性;
 * 提供了一个简单的库API：用于创建用户自己的测试库，测试库可以使用Python或者Java实现;
-* 提供了命令行接口以及基于XML的结果输出文件，方便与已存在的构建设施集成(持续集成系统);
+* 提供了命令行接口以及基于XML的结果输出文件，方便与已存在的构建设施集成\(持续集成系统\);
 * 提供了用于Web测试，Java GUI测试，运行过程，Telnet, SSH等等的工具;
 * 支持创建数据驱动的测试用例;
 * 内置变量功能，适用于测试不同的环境;
@@ -23,10 +24,11 @@ Robot Framework是一个基于Python的,可扩展的关键字驱动的测试自�
 
 Robot Framework 是一款通用的，应用和技术独立的框架。它具有高度模块化的结构，如下图所示：
 
-![Robot Framework Architecture](./statics/architecture.png)  
+![Robot Framework Architecture](./statics/architecture.png)
+
 Robot Framework Architecture
 
-测试数据(Test Data)是以简单的，易于编辑的表格格式。当Robot Framework启动时，它会处理测试数据，执行测试用例然后生成测试日志和报告。
+测试数据\(Test Data\)是以简单的，易于编辑的表格格式。当Robot Framework启动时，它会处理测试数据，执行测试用例然后生成测试日志和报告。
 核心框架不需要关心测试用例的目的，以及用例与测试库的交互处理过程。测试库可以直接使用应用程序接口或者使用更底层的工具来作为驱动程序。
 
 ## 1.1.3 截图
@@ -45,8 +47,7 @@ Reports and Logs
 
 **项目主页**
 
-了解更多关于Robot Framework框架和它的生态系统的首要选择是官方网站: [http://robotframework.org](http://robotframework.org)。Robot Framework框架本身托管在 [GitHub](https://github.com/robotframework/robotframework) 上。
+了解更多关于Robot Framework框架和它的生态系统的首要选择是官方网站: [http:\/\/robotframework.org](http://robotframework.org)。Robot Framework框架本身托管在 [GitHub](https://github.com/robotframework/robotframework) 上。
 
 **邮件列表**
-
 
