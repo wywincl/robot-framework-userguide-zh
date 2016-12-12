@@ -7,9 +7,7 @@
 欢迎大家pull request.
 
 # 联系
-|  作者 | 联系方式 |
-| -- | -- |
-|john.wang | wywincl@126.com |
+john.wang - wywincl@126.com
 
 # 版权许可
 Licensed under the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license
