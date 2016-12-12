@@ -34,9 +34,11 @@ Robot Framework Architecture
 以下截图样例展示了测试数据，测试报告以及日志的呈现形式。
 
 ![Test Case files](./statics/testdata_screenshots.png)
+
 Test Case files
 
 ![Reports and Logs](./statics/testreport_screenshots.png)
+
 Reports and Logs
 
 ## 1.1.4 获取更多信息
