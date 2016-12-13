@@ -10,7 +10,7 @@
 
 Robot Framework是用Python实现的，同时支持Jython(JVM)和IronPython(.NET)。在安装框架之前，前提条件就是安装其中一种Python解释器。
 
-下面列出了安装Robot Framework不同的方式，并在后面的章节中加以详细的解释。
+下面列出了安装Robot Framework不同的方式，并在后续的章节中加以详细的说明。
 
 **用pip安装** 
 

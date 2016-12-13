@@ -32,7 +32,7 @@
     * [5.3 测试数据清理工具(Tidy)](chapter5/section3.md)
     * [5.4 外部工具](chapter5/section4.md)
 * [6 附录](chapter6/README.md)
-    * [6.1 测试数据中所有可用配置](chapter6/section1.md)
+    * [6.1 测试数据中所有可用配置项](chapter6/section1.md)
     * [6.2 所有命令行选项](chapter6/section2.md)
     * [6.3 测试数据模板](chapter6/section3.md)
     * [6.4 文档格式](chapter6/section4.md)

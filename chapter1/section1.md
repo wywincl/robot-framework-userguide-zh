@@ -1,6 +1,6 @@
 # 1.1 介绍
 
-Robot Framework是一个基于Python的,可扩展的关键字驱动的测试自动化框架。它是为了端到端的验收测试\(End-To-End Acceptance Test\)以及验收测试驱动开发\(Acceptance-Test-Driven Development, ATDD\)而设计。
+Robot Framework是一个基于Python的,可扩展的关键字驱动的测试自动化框架。它是为了端到端的验收测试\(End-To-End Acceptance Test\)以及验收测试驱动开发\(Acceptance-Test-Driven Development, ATDD\)而设计的。
 因此它可以应用于测试，当验证需要涉及多个不同技术和接口的分布式、异构的应用程序。
 
 
