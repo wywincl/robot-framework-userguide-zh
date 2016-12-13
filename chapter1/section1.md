@@ -51,3 +51,15 @@ Reports and Logs
 
 **邮件列表**
 
+这里有一些可以询问和查询Robot Framework相关信息的邮件列表。邮件列表归档时开放给所有人的(包括搜索引擎)，每个人都可以免费的加入进来。
+只有邮件列表成员才能发送邮件，不过为了防止垃圾邮件，新成员在发送第一封邮件时，需要花费一点时间来学习邮件发送的格式。
+不要害怕用邮件来提问题，但是请牢记[如何聪明的提问题](http://www.catb.org/~esr/faqs/smart-questions.html)。
+
+[robotframework-users](http://groups.google.com/group/robotframework-users)
+一般讨论所有和Robot Framework相关的问题。问题和疑问可以发送给这个邮件列表。同时这个邮件列表也是所有成员信息共享的平台。
+
+[robotframework-announce](http://groups.google.com/group/robotframework-announce)
+公告邮件列表，只有管理员才可以发送消息。所有的信息也会同时发送给robotframework-users邮件列表的成员，所以无需同时加入这两个邮件列表。
+
+[robotframework-devel](http://groups.google.com/group/robotframework-devel)
+讨论Robot Framework开发相关的话题。
