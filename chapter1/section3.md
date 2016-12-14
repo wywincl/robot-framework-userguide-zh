@@ -44,7 +44,16 @@ JAR发布包同时包含了Jython和Robot Framework，因此仅仅需要安装[J
 Robot Framework支持[Python](http://python.org/)(包括Python 2和Python 3), [Jython](http://jython.org/)(JVM), [IronPython](http://ironpython.net/)(.NET)以及[PyPy](http://pypy.org/). 
 在安装Robot Framework之前，必须先安装你选择的Python解释器。
 
-一般来说，选择哪种解释器通常根据你的测试库和测试环境决定。
+一般来说，选择哪种解释器通常根据你的测试库和测试环境决定。一些测试库使用的工具和模块仅仅在Python下工作，而另一些测试库需要使用Java工具，这就需要有Jython环境，或者需要.NET环境，那就需要安装IronPython。
+也有一些测试库和工具能够在所有解释器平台上正常运行。
+
+如果你没有特殊的环境要求，那么推荐使用Python解释器来运行Robot Framework。因为Robot Framework是用原生Python实现的，所以运行的自然比Jython和IronPython要快(特别是在启动时间上)。
+同时在类Unix系统上，Python解释器是自带的，随时可用。还有一个替代方案就是，运行独立的JAR发布包，它仅仅依赖Java环境作为前提条件。
+
+**Python 2 or Python 3**
+
+Python 2 和Python 3通常来说是同一种编程语言，但是它们之间却不是完全的相互兼容。两者之间主要的区别是Python 3中所有的字符串都是Unicode编码的，而在Python 2中默认是字节编码。
+
 
 ## 1.3.3 用pip安装
 ## 1.3.4 用源码安装

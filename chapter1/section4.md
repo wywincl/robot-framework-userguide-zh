@@ -1,6 +1,6 @@
 # 1.4 演示
 
-这里有几个Demo演示工程，用以介绍Robot Framework以及帮助大家更好的入门。
+这里有几个Demo演示工程样例，用来介绍Robot Framework以及帮助大家更好的入门。
 
 [Quick Start Guide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
 介绍Robot Framework最重要的特性以及提供了一个可执行的demo。
