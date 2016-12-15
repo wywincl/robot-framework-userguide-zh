@@ -60,7 +60,7 @@ Robot Framework 3.0 是第一个支持Python 3的版本， 当然，它也支持
 
 **Python 安装**
 
-在大部分类Unix系统，如Linux和OS X已经默认自带了Python解释器了，所以无需安装。如果你是在Windows系统或者自己需要安装Python, 可以去官方网站http://python.org，这里可以下载合适的版本以及了解更多关于Python的相关信息。
+在大部分类Unix系统，如Linux和OS X已经默认自带了Python解释器了，所以无需安装。如果你是在Windows系统或者自己需要安装Python, 可以去官方网站[http://python.org](http://python.org)，这里可以下载合适的版本以及了解更多关于Python的相关信息。
 
 Robot Framework 3.0支持Python 2.6, 2.7, 3.3和更新的版本。但是RF3.1 已经计划不支持Python 2.6了。如果你需要使用老版本Python的话，Robot Framework 2.5-2.8支持Python 2.5, Robot Framework 2.0-2.1 支持Python 2.3和2.4。
 
@@ -71,9 +71,9 @@ Robot Framework 3.0支持Python 2.6, 2.7, 3.3和更新的版本。但是RF3.1 �
 
 **Jython 安装**
  
-使用Java实现的测试库或者工具需要Robot Framework运行在Jython上。反过来又需要有Java运行时环境(JRE)或者Java开发工具集(JDK)。安装这两种Java发行包已经超出了本章的范围了，但是你可以通过http://java.com来获取更多信息。
+使用Java实现的测试库或者工具需要Robot Framework运行在Jython上。反过来又需要有Java运行时环境(JRE)或者Java开发工具集(JDK)。安装这两种Java发行包已经超出了本章的范围了，但是你可以通过http://java.com 来获取更多信息。
 
-安装Jython是很容易的，第一步就是在网站http://jython.org获取安装程序。安装程序是可执行的JAR包，可以在命令行中执行,如`java -jar jython_installer-<version>.jar`。依赖于系统设置，你或许可以通过双击文件来运行安装程序。
+安装Jython是很容易的，第一步就是在网站http://jython.org 获取安装程序。安装程序是可执行的JAR包，可以在命令行中执行,如 `java -jar jython_installer-<version>.jar`。依赖于系统设置，你或许可以通过双击文件来运行安装程序。
 
 Robot Framework 3.0 支持Jython 2.7, 因此需要Java 7或更新的运行时环境。如果需要旧的Jython或者Java版本，那么Robot Framework 2.5-2.8支持Jython 2.5(需要Java 5以及更新版本)；
 Robot Framework 2.0-2.1支持Jython 2.2。
